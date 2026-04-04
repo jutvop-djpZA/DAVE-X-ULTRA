@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://davexultra.zone.id">
+  <a href="https://ultragenerator.onrender.com/">
     <img src="https://img.shields.io/badge/Pair_Code-Get_Your_Code-purple?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Pair Code" width="220">
   </a>
 
